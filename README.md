@@ -2,6 +2,10 @@ Git教程
 =
 -fix-B
 -
-int main()
+int main(){
+  return 0;
+}
 
-int main()  
+>int main(){
+>  return 0;
+>}
