@@ -4,4 +4,4 @@ Git教程
 -
 int main()
 
-int main()    
+int main()  
