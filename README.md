@@ -5,7 +5,7 @@ Git教程
 int main(){  
   return 0;  
 }  
-```
+```ruby
   int main(){  
     return 0;  
   }  
