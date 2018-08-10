@@ -5,7 +5,8 @@ Git教程
 int main(){  
   return 0;  
 }  
-
+```C++
   int main(){  
     return 0;  
   }  
+```
